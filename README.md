@@ -16,4 +16,4 @@ In order to deploy via Cloud Build located in project MANAGEMENT to CloudFunctio
 ### Copyleft (c) by Denis Astahov
 LRon!!!
 dev
-hay
+stag

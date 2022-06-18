@@ -27,6 +27,6 @@ steps:
 substitutions:
     _FUNCTION_PROJECT : STAG
     _FUNCTION_NAME    : myNodeJS-app
-    _FUNCTION_REGION  : global
+    _FUNCTION_REGION  : us-central1
     _FUNCTION_RUNTIME : nodejs16
     _ENTRY_POINT      : helloWorld

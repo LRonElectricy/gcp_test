@@ -20,7 +20,7 @@ exports.helloWorld = (req, res) => {
   // app.get('/',(req, res)=>res.send('LRON'))
   app.use(express.static('dist'))
 
-  app.listen(8080, () => console.log('running'))
+  app.listen(80, () => console.log('running'))
   // const message = "<font color='blue'>СloudFunction of Denis Astahov!</font><br><b>App Version 1.2 staging!</b>";
   // res.status(200).send(message);
 };
